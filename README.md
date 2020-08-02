@@ -9,3 +9,7 @@ Allows you to change gun properties. You can make a Luger automatic with a 16x s
 
 /gi <item id> [metadata]
 Give yourself an item with a specific metadata. (metadata should look like 0,0,0,0,0,0 etc)
+
+Luger i was talking about: /gi 1476 40,1,239,3,145,0,149,0,163,5,255,2,1,100,100,100,100,100
+I made a guide on what those numbers mean on Steam Community if you're interested:
+link
