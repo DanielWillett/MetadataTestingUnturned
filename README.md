@@ -1,3 +1,5 @@
+Edit: this was the first plugin I ever made, I don't suggest taking any inspiration from this.
+
 # MetadataTestingUnturned
 RocketMod Plugin that allows you to see and change metadata for items in Unturned (rudimentary as it is just for testing, not recommended for use on public servers).
 
